@@ -3,7 +3,6 @@ title: SAS-Wiki
 description: A simple SAS-Wiki
 show_downloads: True
 navigation:
-  - title: Home
-    url: /
-  - title: Setup
-    url: setup
+   - Home: index.md
+    - Zusammenfassungstabellen: zusammenfassungstabellen.md
+    - Transponieren: transponieren.md
