@@ -1,8 +1,5 @@
-theme: jekyll-theme-cayman
-title: SAS-Wiki
-description: A simple SAS-Wiki
-show_downloads: True
-navigation:
-   - Home: index.md
+site_name: SAS-Wiki
+nav:
+    - Home: index.md
     - Zusammenfassungstabellen: zusammenfassungstabellen.md
-    - Transponieren: transponieren.md
+theme: readthedocs
